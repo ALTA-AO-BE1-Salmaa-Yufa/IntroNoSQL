@@ -1,0 +1,7 @@
+1.  Couchbase Server
+2.  Couchbase Server adalah database NoSQL yang termasuk dalam kategori document-store. Ini menggabungkan fitur-fitur dari model data dokumen dan model data key-value. Dalam Couchbase, data disimpan dalam bentuk dokumen JSON yang dapat diakses melalui kunci atau melalui indeks yang dibangun.
+3.  Keunggulan Couchbase Server meliputi:
+    · Skalabilitas: Cocok untuk aplikasi yang memerlukan skalabilitas horizontal dan vertikal.
+    · Kinerja Tinggi: Mendukung pemrosesan data secara cepat dan efisien melalui dukungan caching dan fitur-fitur kinerja tinggi.
+    · Ketersediaan Tinggi: Data dapat direplikasi di seluruh node dalam klaster, memastikan ketersediaan tinggi.
+    · Model Dokumen yang Fleksibel: Memungkinkan penyimpanan dan akses data dalam format JSON yang fleksibel.
